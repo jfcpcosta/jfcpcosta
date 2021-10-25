@@ -31,7 +31,6 @@
  	![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgreSQL)
  	![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
  	![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
- 	![Stripe](https://img.shields.io/badge/-Stripe-333333?style=flat&logo=stripe)
  	![SocketIO](https://img.shields.io/badge/-SocketIO-333333?style=flat&logo=socket.io)
 - ⚙️
 	![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
@@ -60,7 +59,8 @@
 
 
 ### 🤝🏻 Connect with me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Francisco Costa-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jfcpcosta/)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Francisco%20Costa-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jfcpcosta/)
 [![Twitter](https://img.shields.io/badge/Twitter-jfcpcosta-blue?style=flat-square&logo=twitter)](https://www.twitter.com/jfcpcosta/)
 [![YouTube](https://img.shields.io/badge/Youtube-jfcpcosta-blue?style=flat-square&logo=youtube)](https://www.youtube.com/jfcpcosta/)
 [![Twitch](https://img.shields.io/badge/Twitch-jfcpcosta-blue?style=flat-square&logo=twitch)](https://www.twitch.com/jfcpcosta/)
