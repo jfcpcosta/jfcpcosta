@@ -91,9 +91,4 @@
 
 Want to talk tech? judo? or complain about front-end build tools?
 
-[![LinkedIn](https://img.shields.io/badge/in/jfcpcosta-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jfcpcosta/)  
-[![GitHub](https://img.shields.io/badge/@jfcpcosta-black?style=flat-square&logo=github)](https://github.com/jfcpcosta)  
-[![Medium](https://img.shields.io/badge/@jfcpcosta-black?style=flat-square&logo=medium)](https://medium.com/@jfcpcosta)  
-[![Twitter](https://img.shields.io/badge/@jfcpcosta-black?style=flat-square&logo=x)](https://twitter.com/jfcpcosta)  
-[![YouTube](https://img.shields.io/badge/@jfcpcosta-red?style=flat-square&logo=youtube)](https://youtube.com/jfcpcosta)  
-[![Email](https://img.shields.io/badge/jfcpcosta@gmail.com-red?style=flat-square&logo=gmail)](mailto:jfcpcosta@gmail.com)
+Send me a "hi" 😀
