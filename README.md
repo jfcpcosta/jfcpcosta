@@ -1,10 +1,15 @@
 ## 👋🏻 Hey there, I’m Francisco!
 
 > 🧠 Software architect.
+
 > 👨🏼‍🏫 Technical trainer & Consultant.
+
 > 🔍 Addicted to clean code, design patterns and refactoring
+
 > 🧔🏼 Certified geek.
+
 > 🥋 Black belt in Judo (yes, for real).
+
 > 🎮 Gamer when there's time (and sometimes when there isn't).
 
 ---
