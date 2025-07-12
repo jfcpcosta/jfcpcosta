@@ -23,9 +23,14 @@
 - 🎤 Tech trainer, writer and speaker — I like explaining complex things in simple words.
 - 🤓 Geek at heart — I can talk tech or Judo for hours (your call).
 
+---
+
 🧱 I'm a Software Architect with 25+ years of experience designing systems that scale, survive and don’t scream in production.
+
 👨‍💻 I help teams turn technical chaos into clean architecture, whether it's designing from scratch or untangling legacy spaghetti. I'm all about boundaries, clarity and code that makes sense six months later.
+
 🎓 I also teach, mentor and run workshops on architecture, Domain-Driven Design and how to avoid common pitfalls (like building distributed monoliths by accident).
+
 ☕ I believe software should reflect the business, not hide it — and that diagrams are still cool when they mean something.
 
 ---
